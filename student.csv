@@ -1,0 +1,12 @@
+StudentID,Name,Subject,Score,Date
+1,Ranbir,Maths,70,08-03-2022
+2,Alia,Sicnece,80,08-03-2022
+3,Deepika,,90,09-03-2022
+4,Ranveer,Chemistry,,10-03-2022
+5,Rajeev,Social,,11-03-2022
+6,Divya,#NA,,11-03-2022
+7,Ram,Os,,13-03-2022
+8,Tanya,,,14-03-2022
+9,Kusum,Phyiscs,,15-03-2022
+10,Deepa,Chemistry,,16-03-2022
+NaN,NaN,NaN,,17-03-2022
